@@ -4,13 +4,15 @@ void setup() {
   pinMode(1,INPUT);
   pinMode(2,INPUT);
   pinMode(3,INPUT);
-  attachInterrupt(0,fuc1,RISING);
-  attachInterrupt(1,fuc2,RISING);
-  attachInterrupt(2,fuc3,RISING);
+
 }
 
 void loop() {
-  if 
+  
+  attachInterrupt(0,fuc1,RISING);
+  attachInterrupt(1,fuc2,RISING);
+  attachInterrupt(2,fuc3,RISING);
+  
 }
 
 void fuc1()               //btn1
