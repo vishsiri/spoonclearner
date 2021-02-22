@@ -4,5 +4,5 @@
 
 
 ระบบวงจร
-<a href="#"><img src="https://cdn.discordapp.com/attachments/759771400721530920/813424165922537522/Untitled_Sketch_bb.png"></a>
+<a style="width: 20%"><img src="https://cdn.discordapp.com/attachments/759771400721530920/813424165922537522/Untitled_Sketch_bb.png"></a>
 
